@@ -7,6 +7,6 @@
     <title>Title</title>
 </head>
 <body>
-<h1>This is c.jsp</h1>
+<h1>This is Home</h1>
 </body>
 </html>

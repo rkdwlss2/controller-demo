@@ -7,6 +7,11 @@
     <title>Title</title>
 </head>
 <body>
-<h1>This is c.jsp</h1>
+<h1>This is b.jsp</h1>
+<%
+    int num = 10;
+
+%>
+<h3>num의 값은 <%=num%></h3>
 </body>
 </html>

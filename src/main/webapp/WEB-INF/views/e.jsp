@@ -7,6 +7,7 @@
     <title>Title</title>
 </head>
 <body>
-<h1>This is c.jsp</h1>
+<h1>This is e.jsp</h1>
+<h3>${username}</h3>
 </body>
 </html>
